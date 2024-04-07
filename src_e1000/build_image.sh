@@ -1,4 +1,5 @@
 #!/bin/sh
+set -e
 busybox_folder="../busybox-1.36.1"
 kernel_image="../linux/arch/x86/boot/bzImage"
 work_dir=$PWD

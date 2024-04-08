@@ -1,2 +1,8 @@
-initramfs
 initramfs.cpio.gz
+*.ko
+*.mod
+*.mod.c
+*.o
+*.cmd
+*.symvers
+*.order
